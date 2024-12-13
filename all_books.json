@@ -1,0 +1,22 @@
+[
+    {
+        "title": "book 1",
+        "author": "nazmul hasan",
+        "isbn": 72823,
+        "year": 2023,
+        "price": 30.75,
+        "quantity": 1,
+        "bookAddedAt": "13-12-2024 16:59:44",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "book 2",
+        "author": "kamal khan",
+        "isbn": 43408,
+        "year": 2019,
+        "price": 10.0,
+        "quantity": 1,
+        "bookAddedAt": "13-12-2024 17:01:13",
+        "bookLastUpdatedAt": ""
+    }
+]
